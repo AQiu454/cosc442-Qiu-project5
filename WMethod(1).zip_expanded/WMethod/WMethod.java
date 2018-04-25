@@ -386,6 +386,12 @@ public class WMethod{
      //
      // Example use of the Utilities.runFSM() method
      // Utilities.runFSM(FSM, 1, "a a b a b", " ");
+
+     String formattedTest = "";
+         for (String test : tests) {
+        	 formattedTest = test.replace("", " ");  
+           	 Utilities.runFSM(FSM, 1, formattedTest, " ");
+          }
      
    }// End of main()
    
