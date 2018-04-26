@@ -98,3 +98,9 @@ java.util.zip.ZipException: error in opening zip file
 
 !ENTRY org.eclipse.jface.text 2 0 2018-04-25 20:18:22.253
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-25 20:25:44.750
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-25 20:25:44.760
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
