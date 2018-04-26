@@ -103,6 +103,6 @@ public class Utilities{
     }
     //Utilities.debugFSMExecution("\nFSM execution completed. Final state: "+currentState);
     //Utilities.debugFSMExecution("Output pattern:"+outputPattern);
-    return outputPattern;
+  
   }
 }// End of class Utilities.

@@ -402,8 +402,8 @@ public class WMethod{
          	 System.out.println("}");
          	 System.out.println();
    }// End of main()
-   }
-  }//End of class WMethod
+   
+}//End of class WMethod
 
 
 
